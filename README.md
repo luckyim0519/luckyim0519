@@ -48,8 +48,8 @@ to help product engineers reduce analysis time by up to 300%.
 *    Coordinated with different teams for validation of the program with various AMD chip packaging with numerous statistical graph diagrams, resulting in 99+\% correctness of the program.
 *    Managed pull requests using Git, and took full ownership of code and documentation for every feature.
 
-### KT - SWE Intern | Seoul, South Korea
-#### :seedling: June - Aug 2022
+### KT - SWE Intern
+#### :seedling: June - Aug 2022 | Seoul, South Korea
 *   Engineered a generalized model for people with physical disabilities and coded to control I/O devices in each client’s house by using Samsung WebCoRE scripting and deployed the model into production.
 
 ## 🛠 Technology Stack
