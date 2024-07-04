@@ -46,7 +46,7 @@ released to internal team production, reducing translation time by 30%.
 *   Automated for the validation of the high-frequency interconnect analysis, using MATLAB and Python Script
 to help product engineers reduce analysis time by up to 300%.
 *    Coordinated with different teams for validation of the program with various AMD chip packaging with numerous statistical graph diagrams, resulting in 99+\% correctness of the program.
-*    Managed pull requests using Git, and took full ownership of code and documentation.
+*    Managed pull requests using Git, and took full ownership of code and documentation for every feature.
   
 ## 🛠 Technology Stack
 *   C,  C++ (OOP),  C#,  Python,  ARM Assembly,  Verilog
