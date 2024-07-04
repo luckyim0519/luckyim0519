@@ -35,6 +35,8 @@ I am a Computer Engineering Student from the University of Toronto. I have good 
 ## Education
 ### University of Toronto - Bachelor of Computer Engineering
 #### Expected Graduation : May 2025
+![image](https://github.com/luckyim0519/luckyim0519/assets/84313518/5eb91e81-3ebe-45c5-a5f4-e24749ae68c0)
+
 
 ## Work Experience
 ### Microsoft - SWE Intern 
