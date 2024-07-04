@@ -32,13 +32,17 @@ I am a Computer Engineering Student from the University of Toronto. I have good 
    📫 How to reach me: <a href='mailto:moon990519@gmail.com'>moon990519@gmail.com</a>
 </p>
 
+## Education
+### University of Toronto - Bachelor of Computer Engineering
+#### Expected Graduation : May 2025
+
 ## Work Experience
 ### Microsoft - SWE Intern 
-##### :seedling: Summer of 2024 | Redmond, USA
+#### :seedling: Summer of 2024 | Redmond, USA
 *   
 
 ### AMD - SWE Intern
-##### :seedling: May 2023 - May 2024 | Markham, Canada
+#### :seedling: May 2023 - May 2024 | Markham, Canada
 *   Developed the model architecture using C/C++ for high-speed chip-to-chip interconnects transceiver analysis,
 improved performance by 20% through cache optimization using algorithms and data structures.
 *   Generated the Dynamic Linked Library (.dll) and Shared Library (.so) for Windows and Ubuntu/Linux
