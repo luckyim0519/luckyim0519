@@ -15,7 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a Computer Engineering Student from the University of Toronto. I have good knowledge of hardware and software engineering. 
+As a dedicated computer engineering student, I am immersed in the dynamic intersection of software and hardware, striving to contribute to groundbreaking innovations.
+
+My professional journey is fueled by a passion for technology and a commitment to excellence. I thrive in challenging environments, consistently seeking opportunities to learn and grow. My recent projects include significant contributions to design reviews, sprint reviews, and stand-ups, where I have honed my skills in problem-solving and collaborative development.
+
+Outside of work, I am an active participant in the community like volunteering. My interests extend to solving puzzles and enjoying music, as evidenced by my involvement in Friday DJ sessions.
+
+I am excited to connect with fellow professionals who share my enthusiasm for innovation and continuous learning. Let's explore how we can make a positive impact in the tech world together.
 
 <p align='center'>
    <a href="https://github.com/luckyim0519/github-readme-stats"><img height=150
