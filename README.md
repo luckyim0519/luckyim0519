@@ -48,7 +48,7 @@ I am a Computer Engineering Student from the University of Toronto. I have good 
 
 
 
-<div align="center" style="margin: 40px 0">
+<div align="center" style="margin: 20px 0">
    <a href="https://github.com/luckyim0519/github-profile-views-counter">
        <img width="175px" src="https://komarev.com/ghpvc/?username=luckyim0519&color=DE002D">
    </a>
