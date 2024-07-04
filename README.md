@@ -23,7 +23,7 @@ I am a Computer Engineering Student from the University of Toronto. I have good 
 </p>
 
 <p align='center'>
-   <a href="https://www.linkedin.com/in/luckyim0519/">
+   <a href="https://www.linkedin.com/in/luckyim/">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
 </p>
