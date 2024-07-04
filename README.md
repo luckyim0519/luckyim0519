@@ -36,7 +36,7 @@ I am a Computer Engineering Student from the University of Toronto. I have good 
 #### Expected Graduation : May 2025
 
 <p align="center">
-![images](https://github.com/luckyim0519/luckyim0519/assets/84313518/90caff39-a901-4207-96c2-bd9a3e186330)
+<img width="473" alt="image" src="https://github.com/luckyim0519/luckyim0519/assets/84313518/951cd84e-d910-4dbb-b2de-ff11281f570d">
 
 </p>
 
