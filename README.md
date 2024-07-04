@@ -32,11 +32,16 @@ I am a Computer Engineering Student from the University of Toronto. I have good 
    📫 How to reach me: <a href='mailto:moon990519@gmail.com'>moon990519@gmail.com</a>
 </p>
 
-### Key points
-
+## Work Experience
+*   I worked at Microsoft as a SWE Intern in the Summer of 2024 for 3 months.
+*   I worked at AMD as a SWE Intern from May 2023 - May 2024 for 12 months.
+*   I worked in AMD
+  
 ## 🛠 Technology Stack
 *   C,  C++ (OOP),  C#,  Python,  ARM Assembly,  Verilog, 
 *   HTML/CSS,  Javascript,  MySQL
 *   React.Js,  Flask,  MongoDB
-*   GitHub
+*   GitHub, Agile, Sprint
+
+
 
