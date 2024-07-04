@@ -45,7 +45,8 @@ improved performance by 20% through cache optimization using algorithms and data
 released to internal team production, reducing translation time by 30%.
 *   Automated for the validation of the high-frequency interconnect analysis, using MATLAB and Python Script
 to help product engineers reduce analysis time by up to 300%.
-*    Managed pull requests using Git, took full ownership of code and documented validation of program using a mathematical approach
+*    Coordinated with different teams for validation of the program with various AMD chip packaging with numerous statistical graph diagrams, resulting in 99+\% correctness of the program.
+*    Managed pull requests using Git, and took full ownership of code and documentation.
   
 ## 🛠 Technology Stack
 *   C,  C++ (OOP),  C#,  Python,  ARM Assembly,  Verilog
