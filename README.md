@@ -45,7 +45,7 @@ I am excited to connect with fellow professionals who share my enthusiasm for in
 ## :briefcase: Work Experience
 ### Microsoft - SWE Intern 
 #### Summer of 2024 | Redmond, USA
-*   
+*   Currently Working at MSFT as SWE Intern
 
 ### AMD - SWE Intern
 #### May 2023 - May 2024 | Markham, Canada
