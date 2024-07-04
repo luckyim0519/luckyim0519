@@ -34,10 +34,10 @@ I am a Computer Engineering Student from the University of Toronto. I have good 
 
 ## Work Experience
 ### Microsoft - SWE Intern
-*   Summer of 2024 for 3 months.
+#### Summer of 2024 for 3 months.
 
 ### AMD - SWE Intern
-*    May 2023 - May 2024 for 12 months.
+#### May 2023 - May 2024 for 12 months.
 *   
   
 ## 🛠 Technology Stack
