@@ -1,6 +1,6 @@
 ## Hi, I'm Lucky Im 👋
 <p align='center'>
-- 🔭 I’m currently working at Microsoft
+- 🔭 I’m currently working at Microsoft </br>
 - 🌱 I’m currently learning C#, OOP
 - 👯 I’m looking to collaborate on new project
 - 😄 Pronouns: She/Her
