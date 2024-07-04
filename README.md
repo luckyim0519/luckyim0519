@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a Computer Engineering Student from the University of Toronto. I have good knowledge of hardware and software engineering. In general worked 
+
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=luckyim0519&show_icons=true&count_private=true">
        <img height=150 src="https://github-readme-stats.vercel.app/api?username=luckyim0519&show_icons=true&count_private=true"/></a>
