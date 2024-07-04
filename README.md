@@ -33,12 +33,12 @@ I am a Computer Engineering Student from the University of Toronto. I have good 
 </p>
 
 ## Work Experience
-### Microsoft - SWE Intern in Surface Team
-##### :seedling: Summer of 2024 for 3 months
+### Microsoft - SWE Intern 
+##### :seedling: Summer of 2024 | Redmond, USA
 *   
 
 ### AMD - SWE Intern
-##### :seedling: May 2023 - May 2024 for 12 months
+##### :seedling: May 2023 - May 2024 | Markham, Canada
 *   Developed the model architecture using C/C++ for high-speed chip-to-chip interconnects transceiver analysis,
 improved performance by 20% through cache optimization using algorithms and data structures.
 *   Generated the Dynamic Linked Library (.dll) and Shared Library (.so) for Windows and Ubuntu/Linux
@@ -48,7 +48,7 @@ to help product engineers reduce analysis time by up to 300%.
 *    Coordinated with different teams for validation of the program with various AMD chip packaging with numerous statistical graph diagrams, resulting in 99+\% correctness of the program.
 *    Managed pull requests using Git, and took full ownership of code and documentation for every feature.
 
-### KT - SWE Intern
+### KT - SWE Intern | Seoul, South Korea
 #### :seedling: June - Aug 2022
 *   Engineered a generalized model for people with physical disabilities and coded to control I/O devices in each client’s house by using Samsung WebCoRE scripting and deployed the model into production.
 
