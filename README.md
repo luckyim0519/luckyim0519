@@ -31,7 +31,7 @@ I am a Computer Engineering Student from the University of Toronto. I have good 
 </p>
 
 <p align='center'>
-   📫 How to reach me: <a href='mailto:moon990519@gmail.com'>roman.beskrovnyy@gmail.com</a>
+   📫 How to reach me: <a href='mailto:moon990519@gmail.com'>moon990519@gmail.com</a>
 </p>
 
 
