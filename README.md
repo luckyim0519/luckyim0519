@@ -24,7 +24,8 @@ I am a Computer Engineering Student from the University of Toronto. I have good 
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/luckyim0519/">
-       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+       ![image](https://github.com/luckyim0519/luckyim0519/assets/84313518/2c75be5e-954d-41f1-8302-3251c62f08dc)
+
    </a>
 </p>
 
