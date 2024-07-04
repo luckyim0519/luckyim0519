@@ -19,7 +19,8 @@ I am a Computer Engineering Student from the University of Toronto. I have good 
 
 <p align='center'>
    <a href="https://github.com/luckyim0519/github-readme-stats">
-       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckyim0519&layout=compact"/></a>
+              <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+   </a>>
 </p>
 
 <p align='center'>
