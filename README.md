@@ -31,7 +31,7 @@ I am a Computer Engineering Student from the University of Toronto. I have good 
    📫 How to reach me: <a href='mailto:moon990519@gmail.com'>moon990519@gmail.com</a>
 </p>
 
-## Education
+## :book: Education
 ### University of Toronto - Bachelor of Computer Engineering
 #### Expected Graduation : May 2025
 
@@ -42,7 +42,7 @@ I am a Computer Engineering Student from the University of Toronto. I have good 
 
 
 
-## Work Experience
+## :briefcase: Work Experience
 ### Microsoft - SWE Intern 
 #### :seedling: Summer of 2024 | Redmond, USA
 *   
