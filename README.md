@@ -39,7 +39,13 @@ I am a Computer Engineering Student from the University of Toronto. I have good 
 
 ### AMD - SWE Intern
 ##### :seedling: May 2023 - May 2024 for 12 months
-*   
+*   Developed the model architecture using C/C++ for high-speed chip-to-chip interconnects transceiver analysis,
+improved performance by 20% through cache optimization using algorithms and data structures.
+*   Generated the Dynamic Linked Library (.dll) and Shared Library (.so) for Windows and Ubuntu/Linux
+released to internal team production, reducing translation time by 30%.
+*   Automated for the validation of the high-frequency interconnect analysis, using MATLAB and Python Script
+to help product engineers reduce analysis time by up to 300%.
+*    Managed pull requests using Git, took full ownership of code and documented validation of program using a mathematical approach
   
 ## 🛠 Technology Stack
 *   C,  C++ (OOP),  C#,  Python,  ARM Assembly,  Verilog
