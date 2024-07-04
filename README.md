@@ -33,7 +33,7 @@ I am a Computer Engineering Student from the University of Toronto. I have good 
 </p>
 
 ## Work Experience
-### Microsoft - SWE Intern 
+### Microsoft - SWE Intern in Surface Team
 ##### :sunny: Summer of 2024 for 3 months
 *   
 
