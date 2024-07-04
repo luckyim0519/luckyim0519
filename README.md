@@ -37,7 +37,7 @@ I am a Computer Engineering Student from the University of Toronto. I have good 
 ##### :sunny: Summer of 2024 for 3 months.
 
 ### AMD - SWE Intern
-##### :blossom: May 2023 - May 2024 for 12 months.
+##### :seedling: May 2023 - May 2024 for 12 months.
 *   
   
 ## 🛠 Technology Stack
