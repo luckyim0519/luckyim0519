@@ -41,7 +41,7 @@ I am a Computer Engineering Student from the University of Toronto. I have good 
 *   
   
 ## 🛠 Technology Stack
-*   C,  C++ (OOP),  C#,  Python,  ARM Assembly,  Verilog, 
+*   C,  C++ (OOP),  C#,  Python,  ARM Assembly,  Verilog
 *   HTML/CSS,  Javascript,  MySQL
 *   React.Js,  Flask,  MongoDB
 *   GitHub, Agile, Sprint
