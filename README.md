@@ -34,7 +34,7 @@ I am a Computer Engineering Student from the University of Toronto. I have good 
 
 ## Work Experience
 ### Microsoft - SWE Intern in Surface Team
-##### :sunny: Summer of 2024 for 3 months
+##### :seedling: Summer of 2024 for 3 months
 *   
 
 ### AMD - SWE Intern
@@ -47,7 +47,11 @@ released to internal team production, reducing translation time by 30%.
 to help product engineers reduce analysis time by up to 300%.
 *    Coordinated with different teams for validation of the program with various AMD chip packaging with numerous statistical graph diagrams, resulting in 99+\% correctness of the program.
 *    Managed pull requests using Git, and took full ownership of code and documentation for every feature.
-  
+
+### KT - SWE Intern
+#### :seedling: June - Aug 2022
+*   Engineered a generalized model for people with physical disabilities and coded to control I/O devices in each client’s house by using Samsung WebCoRE scripting and deployed the model into production.
+
 ## 🛠 Technology Stack
 *   C,  C++ (OOP),  C#,  Python,  ARM Assembly,  Verilog
 *   HTML/CSS,  Javascript,  MySQL
