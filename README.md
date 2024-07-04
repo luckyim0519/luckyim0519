@@ -32,5 +32,11 @@ I am a Computer Engineering Student from the University of Toronto. I have good 
    📫 How to reach me: <a href='mailto:moon990519@gmail.com'>moon990519@gmail.com</a>
 </p>
 
+### Key points
 
+## 🛠 Technology Stack
+*   C, C++ (OOP), C#, Python, ARM Assembly, Verilog, 
+*   HTML/CSS, Javascript, MySQL
+*   React.Js, Flask, MongoDB
+*   GitHub
 
