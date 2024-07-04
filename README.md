@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Lucky Im 👋
 
 <!--
 **luckyim0519/luckyim0519** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
