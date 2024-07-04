@@ -1,19 +1,16 @@
 ## Hi, I'm Lucky Im 👋
 
-<!--
+
 **luckyim0519/luckyim0519** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working at Microsoft
+- 🌱 I’m currently learning C#, OOP
+- 👯 I’m looking to collaborate on new project
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I can sleep more than 12 hours a day
+
 
 As a dedicated computer engineering student, I am immersed in the dynamic intersection of software and hardware, striving to contribute to groundbreaking innovations.
 
@@ -43,8 +40,8 @@ I am excited to connect with fellow professionals who share my enthusiasm for in
 
 <p align="center">
 <img width="473" alt="image" src="https://github.com/luckyim0519/luckyim0519/assets/84313518/951cd84e-d910-4dbb-b2de-ff11281f570d">
-
 </p>
+
 
 
 
