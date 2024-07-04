@@ -1,10 +1,12 @@
 ## Hi, I'm Lucky Im 👋
-
+<p align='center'>
 - 🔭 I’m currently working at Microsoft
 - 🌱 I’m currently learning C#, OOP
 - 👯 I’m looking to collaborate on new project
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I can sleep more than 12 hours a day
+</p>
+
 
 
 As a dedicated computer engineering student, I am immersed in the dynamic intersection of software and hardware, striving to contribute to groundbreaking innovations.
