@@ -1,71 +1,82 @@
-## Hi, I'm Lucky Im 👋
-<p align='center'>
-- 🔭 I’m currently working at Microsoft  and Looking for NewGrad 2025 SWE job</br>
-- 🌱 I’m currently learning C#, OOP </br>
-- 👯 I’m looking to collaborate on a new project </br>
-- 😄 Pronouns: She/Her </br>
-- ⚡ Fun fact: I can sleep more than 12 hours a day </br>
+# Hi, I'm Lucky Im 👋
+
+**Software Engineer @ Microsoft · Vancouver, CA**
+
+> *Creative engineer seeking the key to the world's bottleneck.*
+
+I don't wait to be handed problems — I find them. My instinct is to look at what's slow, manual, or broken, and remove it. Not just optimise it. Remove it entirely.
+
+---
+
+## 🔭 What I'm up to
+
+- Building and owning core products at Microsoft
+- Shipping tools that eliminate bottlenecks before anyone notices them
+- Exploring the intersection of AI, automation, and engineering craft
+
+---
+
+## ⚡ Highlights
+
+| | |
+|---|---|
+| **×2** | Lightscore performance improvement on core product |
+| **5 min → 1 sec** | Pipeline bottleneck eliminated across 70 test scenarios |
+| **70+** | Test scenarios automated in a single local run (no pipeline) |
+
+---
+
+## 💼 Experience
+
+**Microsoft** — Software Engineer *(2025 – present · Vancouver, CA)*
+- Took ownership of one of three core team products within the first few months
+- Doubled a key performance metric, building on the senior team's foundation then pushing further
+- Built an AI agent (hackathon) that generates ~70 test scenarios and runs them locally — what took 5 min per scenario now takes 1 sec for all 70
+
+**Microsoft** — SWE Intern *(Summer 2024 · Redmond, USA)*
+
+**AMD** — SWE Intern *(May 2023 – May 2024 · Markham, Canada)*
+- Improved high-speed chip-to-chip interconnect model performance by 20% via cache optimisation
+- Reduced translation time by 30% by generating DLL/SO releases for Windows and Linux
+- Automated high-frequency interconnect validation with MATLAB & Python, cutting analysis time by 300%
+
+**KT** — SWE Intern *(Jun – Aug 2022 · Seoul, South Korea)*
+- Engineered a generalised IoT model for people with physical disabilities, deployed to production
+
+---
+
+## 🎓 Education
+
+**University of Toronto** — B.Eng. Computer Engineering *(Graduated May 2025)*
+
+---
+
+## 🛠 Stack
+
+`C` `C++` `C#` `Python` `JavaScript` `HTML/CSS`
+`React` `Flask` `MongoDB` `MySQL`
+`ARM Assembly` `Verilog` `Git` `Agile`
+
+---
+
+## 📬 Connect
+
+<p>
+  <a href="https://www.linkedin.com/in/luckyim/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://luckyim0519.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-111111.svg?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:moon990519@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
-
-
-As a dedicated computer engineering student, I am immersed in the dynamic intersection of software and hardware, striving to contribute to groundbreaking innovations.
-
-My professional journey is fueled by a passion for technology and a commitment to excellence. I thrive in challenging environments, consistently seeking opportunities to learn and grow. My recent projects include significant contributions to design reviews, sprint reviews, and stand-ups, where I have honed my skills in problem-solving and collaborative development.
-
-Outside of work, I am an active participant in the community like volunteering. My interests extend to solving puzzles and enjoying music, as evidenced by my involvement in Friday DJ sessions.
-
-I am excited to connect with fellow professionals who share my enthusiasm for innovation and continuous learning. Let's explore how we can make a positive impact in the tech world together.
-
-<p align='center'>
-   <a href="https://github.com/luckyim0519/github-readme-stats"><img height=150
-                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckyim0519&layout=compact"/></a>
-</p>
-
-<p align='center'>
-   <a href="https://www.linkedin.com/in/luckyim/">
-       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-   </a>
-</p>
-<p align='center'>
-   📫 How to reach me: <a href='mailto:moon990519@gmail.com'>moon990519@gmail.com</a>
-</p>
-
-## :book: Education
-### University of Toronto - Bachelor of Computer Engineering
-#### Expected Graduation : May 2025
+---
 
 <p align="center">
-<img width="473" alt="image" src="https://github.com/luckyim0519/luckyim0519/assets/84313518/951cd84e-d910-4dbb-b2de-ff11281f570d">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckyim0519&layout=compact&theme=graywhite" />
 </p>
-
-
-
-
-## :briefcase: Work Experience
-### Microsoft - SWE Intern 
-#### Summer of 2024 | Redmond, USA
-*   Currently Working at MSFT as SWE Intern
-
-### AMD - SWE Intern
-#### May 2023 - May 2024 | Markham, Canada
-*   Developed the model architecture using C/C++ for high-speed chip-to-chip interconnect transceiver analysis,
-improved performance by 20% through cache optimization using algorithms and data structures.
-*   Generated the Dynamic Linked Library (.dll) and Shared Library (.so) for Windows and Ubuntu/Linux
-released to internal team production, reducing translation time by 30%.
-*   Automated for the validation of the high-frequency interconnect analysis, using MATLAB and Python Script
-to help product engineers reduce analysis time by up to 300%.
-*    Coordinated with different teams for validation of the program with various AMD chip packaging with numerous statistical graph diagrams, resulting in 99+\% correctness of the program.
-*    Managed pull requests using Git, and took full ownership of code and documentation for every feature.
-
-### KT - SWE Intern
-#### June - Aug 2022 | Seoul, South Korea
-*   Engineered a generalized model for people with physical disabilities and coded to control I/O devices in each client’s house by using Samsung WebCoRE scripting and deployed the model into production.
-
-## 🛠 Technology Stack
-*   C,  C++ (OOP),  C#,  Python,  ARM Assembly,  Verilog
-*   HTML/CSS,  Javascript,  MySQL
-*   React.Js,  Flask,  MongoDB
-*   GitHub, Agile, Sprint
-
-
