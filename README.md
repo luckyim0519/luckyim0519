@@ -40,9 +40,6 @@ I don't wait to be handed problems — I find them. My instinct is to look at wh
 - Reduced translation time by 30% by generating DLL/SO releases for Windows and Linux
 - Automated high-frequency interconnect validation with MATLAB & Python, cutting analysis time by 300%
 
-**KT** — SWE Intern *(Jun – Aug 2022 · Seoul, South Korea)*
-- Engineered a generalised IoT model for people with physical disabilities, deployed to production
-
 ---
 
 ## 🎓 Education
